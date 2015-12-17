@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 63a39c048793149e9b82e27d67451677
+timeCreated: 1432736652
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Circle001
+    100004: Circle002
+    100006: Circle034
+    100008: Circle034_MeshPart0
+    100010: Circle034_MeshPart1
+    100012: Circle035
+    100014: Circle035_MeshPart0
+    100016: Circle035_MeshPart1
+    100018: Circle036
+    100020: Circle036_MeshPart0
+    100022: Circle036_MeshPart1
+    100024: Line001
+    100026: Line002
+    100028: Line003
+    100030: Rectangle0
+    100032: Rectangle1
+    100034: Rectangle2
+    100036: //RootNode
+    100038: Shape001
+    100040: Shape002
+    100042: Shape003
+    100044: Star001
+    100046: Torus001
+    100048: Torus002
+    400000: Box001
+    400002: Circle001
+    400004: Circle002
+    400006: Circle034
+    400008: Circle034_MeshPart0
+    400010: Circle034_MeshPart1
+    400012: Circle035
+    400014: Circle035_MeshPart0
+    400016: Circle035_MeshPart1
+    400018: Circle036
+    400020: Circle036_MeshPart0
+    400022: Circle036_MeshPart1
+    400024: Line001
+    400026: Line002
+    400028: Line003
+    400030: Rectangle0
+    400032: Rectangle1
+    400034: Rectangle2
+    400036: //RootNode
+    400038: Shape001
+    400040: Shape002
+    400042: Shape003
+    400044: Star001
+    400046: Torus001
+    400048: Torus002
+    2300000: Box001
+    2300002: Circle001
+    2300004: Circle002
+    2300006: Circle034_MeshPart0
+    2300008: Circle034_MeshPart1
+    2300010: Circle035_MeshPart0
+    2300012: Circle035_MeshPart1
+    2300014: Circle036_MeshPart0
+    2300016: Circle036_MeshPart1
+    2300018: Line001
+    2300020: Line002
+    2300022: Line003
+    2300024: Rectangle0
+    2300026: Rectangle1
+    2300028: Rectangle2
+    2300030: Shape001
+    2300032: Shape002
+    2300034: Shape003
+    2300036: Star001
+    2300038: Torus001
+    2300040: Torus002
+    3300000: Box001
+    3300002: Circle001
+    3300004: Circle002
+    3300006: Circle034_MeshPart0
+    3300008: Circle034_MeshPart1
+    3300010: Circle035_MeshPart0
+    3300012: Circle035_MeshPart1
+    3300014: Circle036_MeshPart0
+    3300016: Circle036_MeshPart1
+    3300018: Line001
+    3300020: Line002
+    3300022: Line003
+    3300024: Rectangle0
+    3300026: Rectangle1
+    3300028: Rectangle2
+    3300030: Shape001
+    3300032: Shape002
+    3300034: Shape003
+    3300036: Star001
+    3300038: Torus001
+    3300040: Torus002
+    4300000: Line001
+    4300002: Line002
+    4300004: Circle001
+    4300006: Line003
+    4300008: Circle002
+    4300010: Star001
+    4300012: Torus001
+    4300014: Rectangle0
+    4300016: Rectangle1
+    4300018: Rectangle2
+    4300020: Box001
+    4300022: Torus002
+    4300024: Shape001
+    4300026: Shape002
+    4300028: Circle034_MeshPart0
+    4300030: Circle034_MeshPart1
+    4300032: Circle035_MeshPart0
+    4300034: Circle035_MeshPart1
+    4300036: Shape003
+    4300038: Circle036_MeshPart0
+    4300040: Circle036_MeshPart1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

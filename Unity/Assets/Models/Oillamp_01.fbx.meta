@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 4e6de94edde8045c999a24d3a9cefb06
+timeCreated: 1432632824
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Frame__bottom_
+    100002: Frame__left_
+    100004: Frame__right_
+    100006: Lamp_Leg
+    100008: Lampcell
+    100010: Lamphead___Holes
+    100012: //RootNode
+    100014: Plug_1
+    100016: Retrainer__bottom_
+    100018: Retrainer__up__1
+    100020: Sidetubular
+    100022: Weldseam
+    100024: Weldseam_2
+    100026: Weldseam_3
+    100028: Weldseam_4
+    100030: Weldseam_5
+    100032: Weldseam__bottom_
+    100034: Weldseam__top_
+    400000: Frame__bottom_
+    400002: Frame__left_
+    400004: Frame__right_
+    400006: Lamp_Leg
+    400008: Lampcell
+    400010: Lamphead___Holes
+    400012: //RootNode
+    400014: Plug_1
+    400016: Retrainer__bottom_
+    400018: Retrainer__up__1
+    400020: Sidetubular
+    400022: Weldseam
+    400024: Weldseam_2
+    400026: Weldseam_3
+    400028: Weldseam_4
+    400030: Weldseam_5
+    400032: Weldseam__bottom_
+    400034: Weldseam__top_
+    2300000: Frame__bottom_
+    2300002: Frame__left_
+    2300004: Frame__right_
+    2300006: Lamp_Leg
+    2300008: Lampcell
+    2300010: Lamphead___Holes
+    2300012: Plug_1
+    2300014: Retrainer__bottom_
+    2300016: Retrainer__up__1
+    2300018: Sidetubular
+    2300020: Weldseam
+    2300022: Weldseam_2
+    2300024: Weldseam_3
+    2300026: Weldseam_4
+    2300028: Weldseam_5
+    2300030: Weldseam__bottom_
+    2300032: Weldseam__top_
+    3300000: Frame__bottom_
+    3300002: Frame__left_
+    3300004: Frame__right_
+    3300006: Lamp_Leg
+    3300008: Lampcell
+    3300010: Lamphead___Holes
+    3300012: Plug_1
+    3300014: Retrainer__bottom_
+    3300016: Retrainer__up__1
+    3300018: Sidetubular
+    3300020: Weldseam
+    3300022: Weldseam_2
+    3300024: Weldseam_3
+    3300026: Weldseam_4
+    3300028: Weldseam_5
+    3300030: Weldseam__bottom_
+    3300032: Weldseam__top_
+    4300000: Retrainer__up__1
+    4300002: Weldseam
+    4300004: Retrainer__bottom_
+    4300006: Weldseam_2
+    4300008: Lamphead___Holes
+    4300010: Weldseam_3
+    4300012: Frame__left_
+    4300014: Frame__right_
+    4300016: Lampcell
+    4300018: Weldseam_4
+    4300020: Frame__bottom_
+    4300022: Weldseam_5
+    4300024: Sidetubular
+    4300026: Weldseam__top_
+    4300028: Weldseam__bottom_
+    4300030: Plug_1
+    4300032: Lamp_Leg
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

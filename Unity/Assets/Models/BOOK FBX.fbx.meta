@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: 0eef8aed28198480d9c1c90267d492d8
+timeCreated: 1432655800
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Background
+    100002: //RootNode
+    100004: Book_Cover_base
+    100006: lower_left
+    100008: lower_right
+    100010: Open_Book
+    100012: page_top_left
+    100014: page_top_left_2
+    100016: page_top_right
+    100018: page_top_right_2
+    100020: pointLight1
+    100022: pointLight2
+    100024: pointLight3
+    100026: Side_left
+    100028: side_right
+    400000: Background
+    400002: //RootNode
+    400004: Book_Cover_base
+    400006: lower_left
+    400008: lower_right
+    400010: Open_Book
+    400012: page_top_left
+    400014: page_top_left_2
+    400016: page_top_right
+    400018: page_top_right_2
+    400020: pointLight1
+    400022: pointLight2
+    400024: pointLight3
+    400026: Side_left
+    400028: side_right
+    2300000: Background
+    2300002: Book_Cover_base
+    2300004: lower_left
+    2300006: lower_right
+    2300008: page_top_left
+    2300010: page_top_left_2
+    2300012: page_top_right
+    2300014: page_top_right_2
+    2300016: Side_left
+    2300018: side_right
+    3300000: Background
+    3300002: Book_Cover_base
+    3300004: lower_left
+    3300006: lower_right
+    3300008: page_top_left
+    3300010: page_top_left_2
+    3300012: page_top_right
+    3300014: page_top_right_2
+    3300016: Side_left
+    3300018: side_right
+    4300000: page_top_left_2
+    4300002: page_top_left
+    4300004: page_top_right_2
+    4300006: page_top_right
+    4300008: lower_right
+    4300010: side_right
+    4300012: lower_left
+    4300014: Side_left
+    4300016: Background
+    4300018: Book_Cover_base
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
